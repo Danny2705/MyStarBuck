@@ -514,7 +514,7 @@ footer {
         border: none;
     }
     .terms__flex {
-        margin: 0 0 4px;
+        margin: 0 10px 4px;
         padding: 8px 0px;
     }
     .terms__flex a {
@@ -529,9 +529,11 @@ footer {
     }
     .francais p:first-child {
         font-size: 14px;
+        margin-left: 1px;
     }
     .francais:last-child {
         font-size: 13px;
+        margin-left: 10px;
     }
     .footer_content span {
         font-size: 1rem;
